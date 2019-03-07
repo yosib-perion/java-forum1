@@ -4,12 +4,11 @@ import com.google.common.hash.HashCode;
 import com.google.common.hash.HashFunction;
 import com.google.common.hash.Hashing;
 
-import java.io.File;
 import java.nio.charset.Charset;
 import java.time.Duration;
 import java.time.Instant;
 
-public class Misc {
+public class HashExample {
 
     public static void main(String[] args) {
 
